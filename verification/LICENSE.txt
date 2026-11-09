@@ -1,0 +1,10 @@
+Copyright (c) 2026 Hongmin Li. All rights reserved.
+
+The accompanying manuscript, verification programs, and exact certificate
+data are submitted to rStation for review and publication under its Terms
+of Service: https://rstation.ai/terms . The verification programs and data
+may be inspected and run to reproduce the results of this paper.
+
+No additional open-source or unrestricted redistribution license is granted.
+Third-party software dependencies retain their own licenses. SymPy is an
+external dependency and is not bundled.

@@ -1,0 +1,11 @@
+Detector checks, Python with SymPy:
+V_6: PASS
+V_9: PASS
+V_12: PASS
+V_15: PASS
+V_18: PASS
+minimality ranks m=1,...,5: PASS
+
+Standard-library exact kernel checks:
+exact truncation, Faulhaber identity, and transfer: PASS
+indefinite principal block and squarefree stars m=6,7: PASS
